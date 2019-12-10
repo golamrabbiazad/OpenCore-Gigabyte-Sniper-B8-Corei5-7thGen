@@ -1,10 +1,8 @@
 # Hackintosh Full Setup Guide
 
-***Native Supported with this Specification.​ (OUT OF THE BOX)***
+***Native Support with this Specification.​ (OUT OF THE BOX)***
 
-<img src="img/catalina10.15.png" alt="catalina 10.15"  />
-
-
+<img src="img/catalina10.15.1.png" alt="catalina 10.15.1"  />
 
 ---
 
@@ -13,9 +11,9 @@
 - [x] **Motherboard:** Gigabyte G1 Sniper B8
 - [x] **CPU:** Intel Core i5-7500 (3.41GHz)
 - [x] **RAM:** Corsair 8GB DDR4 2400MHz
-- [x] **Memory:** Q-360 SSD
+- [x] **STORAGE:** Q-360 SSD (360GB)
 - [x] **GPU:**  Intel HD Graphics 630 1536 MB
-- [x] **SMBIOS:** iMac 18,1
+- [x] **SMBIOS:** iMac18,1
 
 
 
@@ -23,7 +21,11 @@
 
 ------
 
-Broadcom BCM43xx with built-in Bluetooth.
+Broadcom BCM43602 802.11ac Wireless LAN SoC
+
++ Built-in Bluetooth
++ Built-in AirDrop
++ Built-in SideCar
 
 
 
@@ -31,27 +33,24 @@ Broadcom BCM43xx with built-in Bluetooth.
 
 ----
 
-Hackintosh from [Olarila.](https://olarila.com/)
+Clover Bootloader
 
 - Bootargs `dart=0, -no_compat_check`
 
-- Clover Bootloader
-- **EFI Version: 175.0.0.0.0**
+- **EFI Version: 179.0.0.0.0**
 
 
 
-### Kext
+### Audio
 
 ---
 
-- [x] AppleALC - **Codec Inject id: 28**
-- [x] FakeSMC
-- [x] IntelMausi
-- [x] Lilu - ***Fix system kernel panic***
-- [x] NoTouchID
-- [x] RealtekRTL8100
-- [x] RealtekRTL8111
-- [x] USBInjectAll
-- [x] VoodooPS2Controller
-- [x] WhateverGeen - ***Native Graphics support***
-- [x] XHCI - Unsupported
+AppleALC - **Codec Inject id: 28**
+
+
+
+Hackintosh from **[Olarila.](https://olarila.com/)** 
+
+
+
+#### OpenCore Coming Soon...
