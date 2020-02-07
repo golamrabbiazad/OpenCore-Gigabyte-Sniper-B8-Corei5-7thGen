@@ -1,8 +1,8 @@
-# Hackintosh Full Setup Guide
+# Hackintosh PC Details
 
 ***Native Support with this Specification.​ (OUT OF THE BOX)***
 
-<img src="img/catalina10.15.1.png" alt="catalina 10.15.1"  />
+<img src="img/catalina10.15.3.png" alt="catalina 10.15.3"  />
 
 ---
 
@@ -35,9 +35,9 @@ Broadcom BCM43602 802.11ac Wireless LAN SoC
 
 Clover Bootloader
 
-- Bootargs `dart=0, -no_compat_check`
+- Bootargs `dart=0`
 
-- **EFI Version: 179.0.0.0.0**
+- **EFI Version: 180.0.0.0.0**
 
 
 
