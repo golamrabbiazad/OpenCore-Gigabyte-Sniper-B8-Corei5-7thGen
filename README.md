@@ -72,11 +72,11 @@ Note: Time to time link may change or if this provided link not working please g
 
 _And moved to OpenCore Bootloader at the version 10.15.2_
 
-### Audio
+## Audio
 
----
+AppleALC
 
-AppleALC - **Codec Inject id: 28**
+This motherboard has Realtek® ALC1220 Audio Codec and It's **Inject ID: 28**
 
 <img src="img/audio.png" alt="audio support"  />
 
