@@ -26,7 +26,7 @@
 
 <img src="img/internal-graphics.png" alt="intel-hd-630"  />
 
-There is lot of issue you may face because of choosing wrong GPU. And you just be clear with it that Nvida is no longer part of the macOS family > High Sierra 10.13.6. 
+There is lot of issue you may face because of choosing wrong GPU. And you just be clear with it that Nvidia is no longer part of the macOS family > High Sierra 10.13.6. 
 
 A guide of buying graphics card. [Read Here](https://khronokernel-3.gitbook.io/gpu-buyers-guide/)
 
