@@ -7,7 +7,6 @@
 ### _This is the last version of Catalina i'm runing. I'm making this machine as a fully for gaming. And this repo is no longer maintained or updated. I'll upload all the kexts, patches and plist file. Avoid errors, stuck at boot, etc make sure create a plist your own._
 
 
-
 ## Full Specs:
 
 **iMac (21.5-inch, 2017)**
@@ -21,7 +20,6 @@
 | GPU         | Intel HD Graphics 630 1536 MB    |
 
 
-
 ## Graphics
 
 <img src="img/internal-graphics.png" alt="intel-hd-630"  />
@@ -30,17 +28,14 @@ There is lot of issue you may face because of choosing wrong GPU. And you just b
 
 A guide of buying graphics card. [Read Here](https://khronokernel-3.gitbook.io/gpu-buyers-guide/)
 
-
-
 If you already have AMD R7, R9 graphics card series make sure you read the repo. [Read Here](https://github.com/golamrabbiazad/amd-r7_r9-qe-ci)
 
 ## PCIe Card patches
 
 <img src="img/pcie.png" alt="pcie-cards"  />
 
-### Wi-Fi & Bluetooth
 
-------
+## Wi-Fi and Bluetooth
 
 **Broadcom BCM43602 802.11ac** Wireless LAN SoC.
 
@@ -51,10 +46,7 @@ Brought from [AliExpress](https://www.aliexpress.com/)
 + Built-in SideCar
 
 
-
-### Clover EFI
-
-----
+## Clover EFI
 
 ~~Hackintosh from **[Olarila.](https://olarila.com/)**~~ **Dropped using Olarila.** 
 
@@ -69,7 +61,6 @@ Olarila full guide: [Hackintosh Guide](https://www.olarila.com/topic/5794-hackin
 Note: Time to time link may change or if this provided link not working please go out their site and follow the guide.
 
 
-
 _And moved to OpenCore Bootloader at the version 10.15.2_
 
 ## Audio
@@ -79,7 +70,6 @@ AppleALC
 This motherboard has Realtek® ALC1220 Audio Codec and It's **Inject ID: 28**
 
 <img src="img/audio.png" alt="audio support"  />
-
 
 
 ## OpenCore Development
@@ -96,7 +86,7 @@ The main repo/development or maintained [here](https://github.com/acidanthera/Op
 
 **Current OpenCore Booted Version: 0.5.7**
 
-# Thanks
+## Thanks
 
 to all members from the **@Hackintosh** facebook group. They helped me a lot at the beginning of my Hackintosh journey.
 
